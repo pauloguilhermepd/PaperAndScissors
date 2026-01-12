@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class paper_and_scissor {
+public class paper_and_scissors {
 
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
